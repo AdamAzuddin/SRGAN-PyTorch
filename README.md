@@ -8,7 +8,7 @@ For more detail about how SRGAN works, you can check out my blog post series on 
 
 - `data/`: Contains the images used for training and testing
 - `results/`: Contains the result of test images when inferenced with the model
-- `srcnn_train.ipynb`: Jupyter notebook containing code for training and evaluating the SRCNN model.
+- `SRGAN_train.ipynb`: Jupyter notebook containing code for training and evaluating the SRCNN model.
 - `requirements.txt`: File listing the required Python packages for running the code.
 
 ## Usage
